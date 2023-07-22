@@ -49,9 +49,6 @@ UI-тесты
 
 ![Allure UI](/images/screenshot/ui.png)
 
-API-тесты
-
-![Allure API](/images/screenshot/api.png)
 
 Пример видео прохождения теста
 
