@@ -24,14 +24,14 @@
 
 ## Покрытый функционал
 
-- [x] Работа поиска
+- [x] Поиск
 - [x] Сохранение результатов поиска
 - [x] Добавление языка
 - [x] Удаление языка 
 
 ## Запуск тестов
 
-### [Запуск проекта в Jenkins](https://jenkins.autotests.cloud/)
+### [Запуск проекта в Jenkins](https://jenkins.autotests.cloud/job/005_mobile-diplom-wiki_ld/)
 
 Для запуска тестов выбрать "Собрать сейчас"
 
@@ -43,11 +43,11 @@
 
 ### __Примеры Allure отчётов:__ 
 
-#### [Allure Report](https://jenkins.autotests.cloud/job/005-diploma_project_ld/8/allure/)
+#### [Allure Report](https://jenkins.autotests.cloud/job/005_mobile-diplom-wiki_ld/10/allure/)
 
-UI-тесты
+Отображение тестоов в allure
 
-![Allure UI](/images/screenshot/ui.png)
+![Allure UI](/images/screenshot/allure.png)
 
 
 Пример видео прохождения теста
@@ -55,10 +55,10 @@ UI-тесты
 ![Allure vid](/images/screenshot/video_test.gif)
 
 ### __Интеграции с другими сервисами:__ 
-[Allure TestOps](https://allure.autotests.cloud/launch/26950/tree?treeId=6826&search=)
+[Allure TestOps](https://allure.autotests.cloud/project/3543/launches)
 
 ![Allure TestOps](/images/screenshot/allureTestOps.png)
 
-[Jira](https://jira.autotests.cloud/browse/HOMEWORK-783)
+[Jira](https://jira.autotests.cloud/browse/HOMEWORK-805)
 
 ![Allure TestOps](/images/screenshot/jira.png)
